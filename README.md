@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gargi Ghosh
 - 👀 I’m interested in learning and researching about new things
-- 🌱 I’m currently learning Generative AI and Data Science
+- 🌱 I’m currently learning Machine Learning, Computer Vision, Natural Language Processing, Deep Learning and AI in medical field. 
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an author who has published two novels in amazon, a photographer, dancer
 - Instagram : [ https://www.instagram.com/delicate_echoes/](https://www.instagram.com/delicate_echoes?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
