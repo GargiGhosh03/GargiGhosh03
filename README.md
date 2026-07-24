@@ -1,31 +1,122 @@
-- 👋 Hi, I’m Gargi Ghosh
-- 👀 I’m interested in learning and researching about new things
-- 🌱 I’m currently learning Machine Learning, Computer Vision, Natural Language Processing, Deep Learning and AI in medical field. 
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an author who has published two novels in amazon, a photographer, dancer
-- Instagram : [ https://www.instagram.com/delicate_echoes/](https://www.instagram.com/delicate_echoes?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-- 📫 How to reach me via email - @ghosh.gargi001@gmail.com
+# 👋 Hi, I'm Gargi Ghosh
 
+### AI Researcher | Biomedical AI | Computer Vision | Computational Neuroscience
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Delicate_echoes) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@DelicateEchoes) 
-
-# 💻 Tech Stack:
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=GargiGhosh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=GargiGhosh03&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GargiGhosh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Welcome to my GitHub! I'm an AI researcher passionate about building intelligent systems at the intersection of **Artificial Intelligence**, **Biomedical Imaging**, **Computer Vision**, and **Computational Neuroscience**. My work focuses on developing AI that is not only accurate and scalable but also interpretable, robust, and inspired by principles of biological intelligence.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GargiGhosh03&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-GargiGhosh03/GargiGhosh03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔬 Research Interests
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 🧠 Computational Neuroscience
+* 🤖 Foundation Models & Cognitive AI
+* 👁️ Computer Vision
+* 🩺 Biomedical AI & Medical Image Analysis
+* 🧬 Deep Learning for Healthcare
+* 📊 Representation Learning
+* 🔍 Explainable & Trustworthy AI
+* 🌐 Multimodal Machine Learning
+
+---
+
+## 🚀 Current Research Focus
+
+* Brain-inspired Artificial Intelligence
+* Cognitive Reasoning in Foundation Models
+* Medical Image Analysis
+* Computer Vision & Vision-Language Models
+* Neural Representation Learning
+* Mechanistic Interpretability
+
+---
+
+## 💻 What You'll Find Here
+
+* 📄 Research projects and publications
+* 🤖 Machine Learning & Deep Learning implementations
+* 👁️ Computer Vision applications
+* 🩺 Biomedical AI projects
+* 🧠 Computational Neuroscience experiments
+* 🌱 Open-source contributions and personal explorations
+
+---
+
+## 🌟 Beyond Research
+
+Outside of research, I enjoy combining creativity with technology.
+
+* 📚 Published author of **two novels** on Amazon Kindle
+* 📸 Photographer
+* 💃 Dancer
+* 🎬 Video editor and visual storyteller
+
+---
+
+## 📫 Connect With Me
+
+* 📧 **Email:** **[ghosh.gargi001@gmail.com](mailto:ghosh.gargi001@gmail.com)**
+* 📷 **Instagram:** https://www.instagram.com/delicate_echoes/
+* 🎥 **YouTube:** https://www.youtube.com/@DelicateEchoes
+
+---
+
+# 💻 Tech Stack
+
+### Artificial Intelligence & Data Science
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+
+### Programming
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Development & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge\&logo=anaconda\&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
+
+### Creative Tools
+
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge\&logo=AdobeLightroom\&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=AdobePremierePro\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=GargiGhosh03\&theme=tokyonight\&hide_border=true\&show_icons=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=GargiGhosh03\&theme=tokyonight\&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GargiGhosh03\&theme=tokyonight\&hide_border=true\&layout=compact)
+
+---
+
+## 🤝 Open to Collaborations
+
+I'm always interested in collaborating on research related to:
+
+* Biomedical AI
+* Medical Image Analysis
+* Computer Vision
+* Foundation Models
+* Computational Neuroscience
+* Machine Learning for Healthcare
+
+Feel free to reach out if you'd like to collaborate on research or open-source projects.
+
+---
+
+> **"Building AI that not only performs intelligently, but helps us better understand intelligence itself."**
+
+
