@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gargi Ghosh
+# 👋 Hi, I'm Gargi
 
 ### AI Researcher | Biomedical AI | Computer Vision | Computational Neuroscience
 
@@ -27,28 +27,6 @@ Welcome to my GitHub! I'm an AI researcher passionate about building intelligent
 * Computer Vision & Vision-Language Models
 * Neural Representation Learning
 * Mechanistic Interpretability
-
----
-
-## 💻 What You'll Find Here
-
-* 📄 Research projects and publications
-* 🤖 Machine Learning & Deep Learning implementations
-* 👁️ Computer Vision applications
-* 🩺 Biomedical AI projects
-* 🧠 Computational Neuroscience experiments
-* 🌱 Open-source contributions and personal explorations
-
----
-
-## 🌟 Beyond Research
-
-Outside of research, I enjoy combining creativity with technology.
-
-* 📚 Published author of **two novels** on Amazon Kindle
-* 📸 Photographer
-* 💃 Dancer
-* 🎬 Video editor and visual storyteller
 
 ---
 
@@ -89,17 +67,6 @@ Outside of research, I enjoy combining creativity with technology.
 
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge\&logo=AdobeLightroom\&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=AdobePremierePro\&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=GargiGhosh03\&theme=tokyonight\&hide_border=true\&show_icons=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=GargiGhosh03\&theme=tokyonight\&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GargiGhosh03\&theme=tokyonight\&hide_border=true\&layout=compact)
-
 ---
 
 ## 🤝 Open to Collaborations
