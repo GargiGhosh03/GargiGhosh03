@@ -69,17 +69,6 @@ Welcome to my GitHub! I'm an AI researcher passionate about building intelligent
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge\&logo=AdobePremierePro\&logoColor=white)
 ---
 
-## 🤝 Open to Collaborations
-
-I'm always interested in collaborating on research related to:
-
-* Biomedical AI
-* Medical Image Analysis
-* Computer Vision
-* Foundation Models
-* Computational Neuroscience
-* Machine Learning for Healthcare
-
 Feel free to reach out if you'd like to collaborate on research or open-source projects.
 
 ---
