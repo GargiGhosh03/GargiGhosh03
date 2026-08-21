@@ -16,18 +16,6 @@ Welcome to my GitHub! I'm an AI researcher passionate about building intelligent
 * 📊 Representation Learning
 * 🔍 Explainable & Trustworthy AI
 * 🌐 Multimodal Machine Learning
-
----
-
-## 🚀 Current Research Focus
-
-* Brain-inspired Artificial Intelligence
-* Cognitive Reasoning in Foundation Models
-* Medical Image Analysis
-* Computer Vision & Vision-Language Models
-* Neural Representation Learning
-* Mechanistic Interpretability
-
 ---
 
 ## 📫 Connect With Me
